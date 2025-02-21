@@ -9,7 +9,7 @@ const backImages = [
   'Images/7.jpeg',
   'Images/8.jpeg',
   'Images/9.jpeg',
-  'Images/10.jpeg'
+  'Images/10.jpeg',
   'Images/11.jpeg',
   'Images/12.jpeg',
   'Images/13.jpeg',

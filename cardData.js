@@ -1,4 +1,4 @@
-const frontImage = 'Images/front.jpeg'; 
+const frontImage = 'Images/front.jpg'; 
 const backImages = [
   'Images/1.jpeg',
   'Images/2.jpeg',

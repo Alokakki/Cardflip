@@ -20,7 +20,7 @@ const backImages = [
   'Images/18.jpeg',
   'Images/19.jpeg',
   'Images/20.jpeg',
-  'Images/21.jpeg',
+  'Images/21.jpeg'
 ];
 
 function createImage(imagePath, alt = 'card image') {

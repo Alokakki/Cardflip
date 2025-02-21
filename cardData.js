@@ -1,15 +1,15 @@
-const frontImage = '/images/abstract-front.jpg'; 
+const frontImage = '/images/front.jpg'; 
 const backImages = [
-  '/images/back1.jpg',
-  '/images/back2.jpg',
-  '/images/back3.jpg',
-  '/images/back4.jpg',
-  '/images/back5.jpg',
-  '/images/back6.jpg',
-  '/images/back7.jpg',
-  '/images/back8.jpg',
-  '/images/back9.jpg',
-  '/images/back10.jpg'
+  '/images/1.jpg',
+  '/images/2.jpg',
+  '/images/3.jpg',
+  '/images/4.jpg',
+  '/images/5.jpg',
+  '/images/6.jpg',
+  '/images/7.jpg',
+  '/images/8.jpg',
+  '/images/9.jpg',
+  '/images/10.jpg'
 ];
 
 function createImage(imagePath, alt = 'card image') {

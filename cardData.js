@@ -1,15 +1,15 @@
-const frontImage = '/Images/front.jpeg'; 
+const frontImage = 'Images/front.jpeg'; 
 const backImages = [
-  '/Images/1.jpeg',
-  '/Images/2.jpeg',
-  '/Images/3.jpeg',
-  '/Images/4.jpeg',
-  '/Images/5.jpeg',
-  '/Images/6.jpeg',
-  '/Images/7.jpeg',
-  '/Images/8.jpeg',
-  '/Images/9.jpeg',
-  '/Images/10.jpeg'
+  'Images/1.jpeg',
+  'Images/2.jpeg',
+  'Images/3.jpeg',
+  'Images/4.jpeg',
+  'Images/5.jpeg',
+  'Images/6.jpeg',
+  'Images/7.jpeg',
+  'Images/8.jpeg',
+  'Images/9.jpeg',
+  'Images/10.jpeg'
 ];
 
 function createImage(imagePath, alt = 'card image') {

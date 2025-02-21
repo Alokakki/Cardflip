@@ -1,11 +1,11 @@
 const abstractImages = [
-  '/image/front.jpg',
+  '/image/front.jpeg',
   '/images/abstract2.jpg',
   
 
 const animalImages = {
-  one: '/image/1.jpg',
-  two: '/image/2.jpg',
+  one: '/image/1.jpeg',
+  two: '/image/2.jpeg',
   rabbit: '/images/rabbit.jpg',
   owl: '/images/owl.jpg',
   penguin: '/images/penguin.jpg'

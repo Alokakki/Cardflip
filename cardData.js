@@ -1,24 +1,17 @@
 const abstractImages = [
-  '/images/abstract1.jpg',
+  '/image/front.jpg',
   '/images/abstract2.jpg',
-  '/images/abstract3.jpg',
-  '/images/abstract4.jpg',
-  '/images/abstract5.jpg',
-  '/images/abstract6.jpg',
-  '/images/abstract7.jpg',
-  '/images/abstract8.jpg',
-  '/images/abstract9.jpg'
-];
+  
 
 const animalImages = {
-  cat: '/images/cat.jpg',
-  dog: '/images/dog.jpg',
+  one: '/image/1.jpg',
+  two: '/image/2.jpg',
   rabbit: '/images/rabbit.jpg',
   owl: '/images/owl.jpg',
   penguin: '/images/penguin.jpg'
 };
 
-const animals = ['cat', 'dog', 'rabbit', 'owl', 'penguin'];
+const animals = ['one', 'two', 'rabbit', 'owl', 'penguin'];
 
 function createAbstractImage(imagePath) {
   return `

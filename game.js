@@ -60,7 +60,8 @@ class CardGame {
   }
   
   updateRemainingText() {
-    this.remainingText.textContent = Cards remaining: ${this.cards.length};
+    this.remainingText.textContent = `Cards remaining: ${this.cards.length}`;
+
   }
 }
 
